@@ -6,7 +6,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Minta1234&show_icons=true&theme=dark&hide_border=true&icon_color=F97316&title_color=F97316)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minta1234&layout=compact&theme=dark&hide_border=true&title_color=F97316)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Minta1234&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Minta1234&theme=darkhub&no-frame=true&margin-w=10&cache_seconds=86400)](https://github.com/ryo-ma/github-profile-trophy)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minta1234&theme=github-dark&color=F97316&line=F97316&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Minta1234&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316)](https://git.io/streak-stats)
