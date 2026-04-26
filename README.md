@@ -9,6 +9,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minta1234&layout=compact&theme=dark&hide_border=true&title_color=F97316)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minta1234&theme=github-dark&color=F97316&line=F97316&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Minta1234&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316)](https://git.io/streak-stats)
 
 <picture>
