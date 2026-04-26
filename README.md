@@ -11,7 +11,7 @@
 
 <a href="https://github.com/Minta1234/Minta1234">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minta1234&show_icons=true&theme=dark&hide_border=true&icon_color=F97316&title_color=F97316&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minta1234&layout=compact&theme=dark&hide_border=true&title_color=F97316"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minta1234&layout=compact&theme=dark&hide_border=true&title_color=F97316"/>](https://github-readme-stats.vercel.app/api?username=Minta1234)
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Minta1234&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316)](https://git.io/streak-stats)
