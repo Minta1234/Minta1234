@@ -10,3 +10,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minta1234&layout=compact&theme=dark&hide_border=true&title_color=F97316)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Minta1234&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316)](https://git.io/streak-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Minta1234/Minta1234/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Minta1234/Minta1234/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Minta1234/Minta1234/output/github-snake.svg">
+</picture>
