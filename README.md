@@ -5,7 +5,7 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Minta1234&show_icons=true&theme=vue&hide_border=true&icon_color=F97316&title_color=F97316)
+![Stats](https://github-readme-stats.vercel.app/api?username=Minta1234&show_icons=true&theme=vue)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minta1234&layout=compact&theme=dark&hide_border=true&title_color=F97316)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minta1234&theme=github-dark&color=F97316&line=F97316&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
