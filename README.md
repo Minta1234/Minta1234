@@ -11,7 +11,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Minta1234/Minta1234/output/github-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Minta1234/Minta1234/output/github-snake.svg">
 </picture>
-
-<footer>
-  <p style="color: #888; text-align: center; font-size: 0.8em; margin-top: 20px;">&copy; 2026 Minta1234. All rights reserved.</p>
-</footer>
