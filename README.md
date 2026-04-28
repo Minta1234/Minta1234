@@ -11,4 +11,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Minta1234/Minta1234/output/github-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Minta1234/Minta1234/output/github-snake.svg">
 </picture>
-Make it I think It Need More Buatiful UI
+
+<p style="color: #888; font-size: 0.8em; margin-top: 20px;">© 2026 Minta0077. All rights reserved.</p>
