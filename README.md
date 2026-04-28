@@ -13,5 +13,5 @@
 </picture>
 
 <footer>
-  <p style="color: #888; text-align: center; font-size: 0.8em; margin-top: 20px;">&copy; 2026 Minta0077. All rights reserved.</p>
+  <p style="color: #888; text-align: center; font-size: 0.8em; margin-top: 20px;">&copy; 2026 Minta1234. All rights reserved.</p>
 </footer>
