@@ -5,6 +5,7 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minta1234&theme=github-dark&color=F97316&line=F97316&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 | <a href="https://github.com/minta1234"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Minta1234&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Minta1234's github stats" /></a> | <a href="https://github.com/minta1234"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minta1234&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Minta1234&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316)](https://git.io/streak-stats)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Minta1234/Minta1234/output/github-snake-dark.svg">
