@@ -24,12 +24,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minta1234&theme=github-dark&color=F97316&line=F97316&point=ffffff&hide_border=true&area=true&area_color=F97316)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
