@@ -3,6 +3,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,blender,lua,js,html,css,java,cs,cloudflare,linux,supabase)](https://skillicons.dev)
 
-**OS:** Windows 11 & Linux
-**Editor:** VS Code & Antigravity
-**Language:** Python, HTML, CSS, JS, Odin, Java, C#, Lua
+- **OS:** Windows 11 & Linux
+- **Editor:** VS Code & Antigravity
+- **Language:** Python, HTML, CSS, JS, Odin, Java, C#, Lua
