@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&pause=1000&color=F97316&width=435&lines=Hi!+I'm+Minta+👋;Always+building+something+🔧)](https://git.io/typing-svg)
-
-<div align="center">
-  <table border="0">
+table border="0">
     <tr>
       <!-- GitRoll Badge -->
       <td valign="center">
@@ -20,5 +18,5 @@
         </a>
       </td>
     </tr>
-  </table>
-</div>
+    </table>
+
