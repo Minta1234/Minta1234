@@ -3,11 +3,16 @@
 <div align="center">
   <table border="0">
     <tr>
-      <!-- GitRoll Badge -->
+      <!-- GitRoll Badge aligned with a matching height -->
       <td valign="center">
-        <a href="https://gitroll.io/profile/umtVzcpDB3XMxn2iGNguA40wncEG3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/umtVzcpDB3XMxn2iGNguA40wncEG3?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
+        <a href="https://gitroll.io/profile/umtVzcpDB3XMxn2iGNguA40wncEG3" target="_blank">
+          <img src="https://gitroll.io/api/badges/profiles/v1/umtVzcpDB3XMxn2iGNguA40wncEG3?theme=darkEmerald" height="210" alt="GitRoll Profile Badge"/>
+        </a>
       </td>
+      
+      <!-- Spacing -->
       <td width="20"></td>
+      
       <!-- GitHub Language Stats -->
       <td valign="center">
         <a href="https://github.com/minta1234">
