@@ -7,25 +7,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+|<p align="center">
   <a href="https://github.com/minta1234">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=Minta1234&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=F97316&icon_color=F97316" alt="Minta's GitHub Stats" />
-  </a>
+  </a>|
   <a href="https://github.com/minta1234">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minta1234&layout=compact&theme=github_dark&hide_border=true&title_color=F97316" alt="Top Languages" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Minta1234&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="GitHub Streak" />
-  </a>
-</p>
-
+</p>|----------
 ---
-
-## 🐍 Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Minta1234/Minta1234/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Minta1234/Minta1234/output/github-snake.svg">
