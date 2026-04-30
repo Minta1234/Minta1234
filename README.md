@@ -3,7 +3,7 @@
 <p>
   <!-- GitRoll Badge -->
   <a href="https://gitroll.io/profile/umtVzcpDB3XMxn2iGNguA40wncEG3" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/umtVzcpDB3XMxn2iGNguA40wncEG3?theme=kawaiiCat" height="210" alt="GitRoll Profile Badge"/>
+    <img src="https://gitroll.io/api/badges/profiles/v1/umtVzcpDB3XMxn2iGNguA40wncEG3?theme=kawaiiCat" height="230" alt="GitRoll Profile Badge"/>
   </a>
   
   <!-- Spacing -->
