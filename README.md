@@ -3,11 +3,14 @@
 <p>
   <!-- GitRoll Badge -->
   <a href="https://gitroll.io/profile/umtVzcpDB3XMxn2iGNguA40wncEG3" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/umtVzcpDB3XMxn2iGNguA40wncEG3?theme=kawaiiCat" height="120" alt="GitRoll Profile Badge"/>
+    <img src="https://gitroll.io/api/badges/profiles/v1/umtVzcpDB3XMxn2iGNguA40wncEG3?theme=kawaiiCat" height="210" alt="GitRoll Profile Badge"/>
   </a>
   
-  <!-- GitHub Language Stats - Adjusted to match the 'Kawaii' vibe -->
+  <!-- Spacing -->
+  &nbsp;&nbsp;
+
+  <!-- GitHub Language Stats -->
   <a href="https://github.com/minta1234">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minta1234&layout=compact&theme=react&hide_border=true&title_color=ffb7c5&icon_color=ffb7c5" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minta1234&layout=compact&theme=github_dark&hide_border=true&title_color=F97316" height="210" alt="Top Languages"/>
   </a>
 </p>
