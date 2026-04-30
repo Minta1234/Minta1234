@@ -5,11 +5,8 @@
     <tr>
       <!-- GitRoll Badge -->
       <td valign="center">
-        <a href="https://gitroll.io/profile/umtVzcpDB3XMxn2iGNguA40wncEG3" target="_blank">
-          <img src="https://gitroll.io/api/badges/profiles/v1/umtVzcpDB3XMxn2iGNguA40wncEG3?theme=kawaiiCat" height="210" alt="GitRoll Profile Badge"/>
-        </a>
+        <a href="https://gitroll.io/profile/umtVzcpDB3XMxn2iGNguA40wncEG3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/umtVzcpDB3XMxn2iGNguA40wncEG3?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
       </td>
-      <!-- Spacing Column -->
       <td width="20"></td>
       <!-- GitHub Language Stats -->
       <td valign="center">
