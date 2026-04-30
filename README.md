@@ -3,6 +3,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,blender,lua,js,html,css,java,cs,cloudflare,linux,supabase)](https://skillicons.dev)
 
+## Environment
 - **OS:** Windows 11 & Linux
 - **Editor:** VS Code & Antigravity
 - **Language:** Python, HTML, CSS, JS, Odin, Java, C#, Lua
+
+## Hi!
+HI! I'm Minta(Minta1234) I'm interested in things related to Linux, Windows, Cybersecurity, Blender
