@@ -12,6 +12,7 @@
 HI! I'm Minta(Minta1234) I'm interested in things related to Linux, Windows, Cybersecurity, Blender
 - I Like To Ethical Hacking
 - I Like Vide Coding
+- i Can Understand Russian a little bit
  
 ## Hobbies
 - **Minecraft:** Play And Moding
