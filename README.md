@@ -17,3 +17,8 @@ HI! I'm Minta(Minta1234) I'm interested in things related to Linux, Windows, Cyb
 - **Minecraft:** Play And Moding
 - **Blue Archive:** Playing Main Story
 - **Vs Code:** Building Website And Update
+
+<details>
+<summary>Previwe Linux</summary>
+<IMG src="https://raw.githubusercontent.com/Minta1234/Minta1234/a823afac372a7cfab7443acb623787ba03a31e36/images/Screenshot_20260511_004825.png"/>
+</details>
