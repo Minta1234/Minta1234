@@ -9,9 +9,10 @@
 
 ## Hi!
 HI! I'm Minta(Minta1234) I'm interested in things related to Linux, Windows, Cybersecurity, Blender
-- I Like To Ethical Hacking
-- I Like Vide Coding
-- i Understand Russian a little bit
+- I Like To Ethical Hacking.
+- I Like Vide Coding.
+- I Understand Russian a little bit.
+- I Like To Watch Zuki. <a href="https://www.tiktok.com/@zuki_official_tiktok">Tiktok Zuki</a>
  
 ## Hobbies
 - **Minecraft:** Play And Moding
