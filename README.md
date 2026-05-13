@@ -22,4 +22,6 @@ HI! I'm Minta(Minta1234) I'm interested in things related to Linux, Windows, Cyb
 <details>
 <summary>Preview Linux</summary>
 <IMG src="https://raw.githubusercontent.com/Minta1234/Minta1234/refs/heads/main/images/Zuki.png"/>
+<IMG src="https://raw.githubusercontent.com/Minta1234/Minta1234/refs/heads/main/images/ZUKI.png"/>
+<IMG src="https://raw.githubusercontent.com/Minta1234/Minta1234/refs/heads/main/images/Zuki2.png"/>
 </details>
