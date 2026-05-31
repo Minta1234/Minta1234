@@ -13,9 +13,7 @@ HI! I'm Minta(Minta1234) I'm interested in things related to Linux, Windows, Cyb
 - I Like Vide Coding.
 - I Understand Russian a little bit.
 - I Like To Watch ZukiCraft. <a href="https://www.tiktok.com/@zuki_official_tiktok" target="_blank">Tiktok Zuki</a>
-- My Tiktok. <a href="https://www.tiktok.com/@minta1234_official" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: black;">
-    <img src="https://raw.githubusercontent.com/Minta1234/Minta1234/refs/heads/main/images/tiktok-logo-logo-svgrepo-com.png" alt="TikTok Logo" width="50" height="50" style="vertical-align: middle; display: inline-block;">
-</a>
+- My Tiktok. <a href="https://www.tiktok.com/@minta1234_official" target="_blank">My Tiktok</a>
 
 ## Hobbies
 - **Minecraft:** Play And Moding
