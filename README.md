@@ -2,6 +2,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,blender,js,html,css,java,cs,cloudflare,linux,supabase,lua)](https://skillicons.dev) <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Minta1234&layout=compact&theme=radical&langs_count=4&hide=javascript,game%20maker%20language,terra">
 
+## 📈 Github Stat
+
+[![Stats](./profile/stats.svg)](https://github.com/stats-organization/github-readme-stats-action)
+[![Top Languages](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
+
 ## Environment
 - **OS:** Windows 11 & Linux (Parrot OS Home)
 - **Editor:** VS Code & Antigravity
