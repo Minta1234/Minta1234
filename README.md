@@ -29,3 +29,7 @@ HI! I'm Minta(Minta1234) I'm interested in things related to Linux, Windows, Cyb
 <summary>Preview Linux</summary>
 <IMG src="https://github.com/Minta1234/Minta1234/blob/09dbef95f6c5b3744be289f0964f3f9ddf1f491c/images/Screenshot_20260531_135503.png"/>
 </details>
+<details>
+<summary>Preview Linux</summary>
+<IMG src="https://raw.githubusercontent.com/Minta1234/Minta1234/8ba4d5602a4be494ba21fa169589d4619ae04b22/images/Screen%20Short%202026-06-04%20182957.png"/>
+</details>
