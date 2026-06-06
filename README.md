@@ -17,12 +17,10 @@ HI! I'm Minta(Minta1234) I'm interested in things related to Linux, Windows, Cyb
 - I Like To Ethical Hacking.
 - I Like Vide Coding.
 - I Understand Russian a little bit.
-- I Like To Watch ZukiCraft. <a href="https://www.tiktok.com/@zuki_official_tiktok" target="_blank">Tiktok Zuki</a>
 - My Tiktok. <a href="https://www.tiktok.com/@minta1234_official" target="_blank">My Tiktok</a>
 
 ## Hobbies
 - **Minecraft:** Play And Moding
-- **Blue Archive:** Playing Main Story
 - **Vs Code:** Building Website And Update
 
 <details>
