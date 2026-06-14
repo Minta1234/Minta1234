@@ -8,7 +8,7 @@
 [![Top Languages](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
 
 ## Environment
-- **OS:** Windows 11 & Linux (Parrot OS Home)
+- **OS:** Windows 11 & Linux (Zorin OS)
 - **Editor:** VS Code & Antigravity
 - **Language:** Python, HTML, CSS, JS, Odin, Java, C#, Lua
 
