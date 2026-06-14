@@ -25,7 +25,7 @@ HI! I'm Minta(Minta1234) I'm interested in things related to Linux, Windows, Cyb
 
 <details>
 <summary>Preview Linux</summary>
-<IMG src="https://github.com/Minta1234/Minta1234/blob/09dbef95f6c5b3744be289f0964f3f9ddf1f491c/images/Screenshot_20260531_135503.png"/>
+<IMG src="https://raw.githubusercontent.com/Minta1234/Minta1234/refs/heads/main/images/Screenshot%20from%202026-06-14%2022-39-13.png"/>
 </details>
 <details>
 <summary>Preview Windows</summary>
