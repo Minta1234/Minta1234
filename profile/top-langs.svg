@@ -180,15 +180,15 @@
           data-testid="lang-progress"
           x="249.96999999999997"
           y="0"
-          width="10.01"
+          width="10.02"
           height="8"
-          fill="#384d54"
+          fill="#89e051"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.97999999999996"
+          x="249.98999999999998"
           y="0"
           width="10.01"
           height="8"
@@ -198,11 +198,11 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.98999999999995"
+          x="249.99999999999997"
           y="0"
           width="10.01"
           height="8"
-          fill="#89e051"
+          fill="#384d54"
         />
       
       
@@ -244,9 +244,9 @@
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#384d54" />
+      <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dockerfile 0.01%
+        Shell 0.01%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -258,9 +258,9 @@
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#89e051" />
+      <circle cx="5" cy="6" r="5" fill="#384d54" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 0.00%
+        Dockerfile 0.00%
       </text>
     </g>
   </g></g>
