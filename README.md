@@ -4,7 +4,7 @@
 
 ## 📈 Github Stat
 
-[![Stats](./profile/stats.svg)](https://github.com/stats-organization/github-readme-stats-action)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=default_repocard)](https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=default_repocard)
 [![Top Languages](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
 
 ## Environment
