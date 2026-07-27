@@ -4,9 +4,11 @@
 
 ## 📈 Github Stat
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=Minta1234&langs_count=20">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Minta1234&langs_count=20" alt="Top Languages" />
-</a>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Minta1234&langs_count=8" height="180" />
+</p>
+
 ## Environment
 - **OS:** Windows 11 & Linux (Zorin OS)
 - **Editor:** VS Code & Antigravity
