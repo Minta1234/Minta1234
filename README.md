@@ -5,8 +5,11 @@
 ## 📈 Github Stat
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Minta1234&langs_count=10" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true" width="495" />
+</p>
+<br />
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Minta1234&langs_count=10" width="495" />
 </p>
 
 ## Environment
