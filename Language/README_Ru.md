@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Minta1234/Minta1234/blob/a7eee55c6412dd8a485d2a963997e4a9d5bed68b/README.md">🇬🇧 English</a> | <a href="https://github.com/Minta1234/Minta1234/blob/a7eee55c6412dd8a485d2a963997e4a9d5bed68b/Language/README_Ru.md">🇷🇺 Русский</a> | <a href="https://github.com/Minta1234/Minta1234/blob/a7eee55c6412dd8a485d2a963997e4a9d5bed68b/Language/README_Jp.md">🇯🇵 日本語</a> | <a href="https://github.com/Minta1234/Minta1234/blob/a7eee55c6412dd8a485d2a963997e4a9d5bed68b/Language/README_Fr.md">🇫🇷 Français</a> | <a href="https://github.com/Minta1234/Minta1234/blob/a7eee55c6412dd8a485d2a963997e4a9d5bed68b/Language/README_CN.md">🇨🇳 中文</a>
+<a href="../README.md">🇬🇧 English</a> | <a href="./README_Ru.md">🇷🇺 Русский</a> | <a href="./README_Jp.md">🇯🇵 日本語</a> | <a href="./README_Fr.md">🇫🇷 Français</a> | <a href="./README_CN.md">🇨🇳 中文</a>
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&pause=1000&color=F97316&width=435&lines=Привет!+Я+Minta+👋;Всегда+что-то+строю+🔧)](https://git.io/typing-svg)
