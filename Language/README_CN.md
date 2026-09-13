@@ -21,7 +21,7 @@
 - 喜欢道德黑客（Ethical Hacking）。
 - 喜欢"氛围编程"（Vibe Coding）。
 - 懂一点俄语。
-- 我的 Tiktok。<a href="https://www.tiktok.com/@minta1234_official" target="_blank">我的 Tiktok</a>
+- 我的 Tiktok。<a href="https://www.tiktok.com/@7454506997104755717" target="_blank">我的 Tiktok</a>
 
 ## 爱好
 - **Minecraft:** 玩游戏并制作模组

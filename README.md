@@ -21,7 +21,7 @@ HI! I'm Minta(Minta1234) I'm interested in things related to Linux, Windows, Cyb
 - I Like To Ethical Hacking.
 - I Like Vide Coding.
 - I Understand Russian a little bit.
-- My Tiktok. <a href="https://www.tiktok.com/@minta1234_official" target="_blank">My Tiktok</a>
+- My Tiktok. <a href="https://www.tiktok.com/@7454506997104755717" target="_blank">My Tiktok</a>
 
 ## Hobbies
 - **Minecraft:** Play And Moding

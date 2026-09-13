@@ -21,7 +21,7 @@ Salut ! Je suis Minta (Minta1234), je m'intéresse à Linux, Windows, la cybers�
 - J'aime le hacking éthique.
 - J'aime le "vibe coding".
 - Je comprends un peu le russe.
-- Mon Tiktok. <a href="https://www.tiktok.com/@minta1234_official" target="_blank">Mon Tiktok</a>
+- Mon Tiktok. <a href="https://www.tiktok.com/@7454506997104755717" target="_blank">Mon Tiktok</a>
 
 ## Loisirs
 - **Minecraft :** Jouer et créer des mods

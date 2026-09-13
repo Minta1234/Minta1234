@@ -21,7 +21,7 @@
 - 倫理的ハッキング（エシカルハッキング）が好きです。
 - 「バイブコーディング」が好きです。
 - ロシア語を少し理解できます。
-- 私のTiktok。<a href="https://www.tiktok.com/@minta1234_official" target="_blank">私のTiktok</a>
+- 私のTiktok。<a href="https://www.tiktok.com/@7454506997104755717" target="_blank">私のTiktok</a>
 
 ## 趣味
 - **Minecraft:** プレイとMod制作

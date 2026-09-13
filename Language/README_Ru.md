@@ -21,7 +21,7 @@
 - Люблю этичный хакинг.
 - Люблю "вайб-кодинг" (vibe coding).
 - Немного понимаю русский язык.
-- Мой Tiktok. <a href="https://www.tiktok.com/@minta1234_official" target="_blank">Мой Tiktok</a>
+- Мой Tiktok. <a href="https://www.tiktok.com/@7454506997104755717" target="_blank">Мой Tiktok</a>
 
 ## Хобби
 - **Minecraft:** Играю и создаю моды
