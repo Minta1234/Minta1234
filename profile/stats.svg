@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">MintaOffice&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 432, Total PRs: 11, Total Issues: 5, Contributed to (last year): 6</desc>
+        <title id="titleId">Minta Intelligence&#39;s GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 442, Total PRs: 16, Total Issues: 5, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 196.4268422929456;
+        stroke-dashoffset: 192.46851960418292;
       }
     }
   
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >MintaOffice&#39;s GitHub Stats</text>
+      >Minta Intelligence&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >432</text>
+      >442</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >11</text>
+      >16</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
