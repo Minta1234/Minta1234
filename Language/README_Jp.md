@@ -35,3 +35,5 @@
 <summary>Windowsのプレビュー</summary>
 <IMG src="https://raw.githubusercontent.com/Minta1234/Minta1234/8ba4d5602a4be494ba21fa169589d4619ae04b22/images/Screen%20Short%202026-06-04%20182957.png"/>
 </details>
+
+日本人が好きです。 Wasabi~~~

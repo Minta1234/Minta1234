@@ -35,3 +35,5 @@ HI! I'm Minta(Minta1234) I'm interested in things related to Linux, Windows, Cyb
 <summary>Preview Windows</summary>
 <IMG src="https://raw.githubusercontent.com/Minta1234/Minta1234/8ba4d5602a4be494ba21fa169589d4619ae04b22/images/Screen%20Short%202026-06-04%20182957.png"/>
 </details>
+
+I like English people. Coffee~~~~
