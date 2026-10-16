@@ -10,6 +10,8 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Minta1234&langs_count=100&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Minta1234&langs_count=100&theme=light_github)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)
+## Online Presence
+\[Gravatar Profile\]: [gravatar.com/secretlyfancyea96662e50](https://gravatar.com/secretlyfancyea96662e50)
 
 ## 环境
 - **操作系统:** Windows 11 与 Linux (Zorin OS)
