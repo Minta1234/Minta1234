@@ -11,7 +11,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Minta1234&langs_count=100&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Minta1234&langs_count=100&theme=light_github)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)
 ## Online Presence
-\[Gravatar Profile\]: [gravatar.com/secretlyfancyea96662e50](https://gravatar.com/secretlyfancyea96662e50)
+<iframe src="https://gravatar.com/secretlyfancyea96662e50.card" width="415" height="228" style="border:0; margin:0; padding:0;"></iframe>
 
 ## 環境
 - **OS:** Windows 11 & Linux (Zorin OS)
