@@ -8,8 +8,8 @@
 
 ## 📈 Статистика GitHub
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage,prs_reviewed&show_icons=true&include_all_commits=true&bg_color=fff&title_color=ff69b4&text_color=555&border_color=ffb6c1&icon_color=ff69b4)](https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage,prs_reviewed&show_icons=true&include_all_commits=true&bg_color=fff&title_color=ff69b4&text_color=555&border_color=ffb6c1&icon_color=ff69b4)
-<br><img src="https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show_icons=true&include_all_commits=true&bg_color=fff&title_color=ff69b4&text_color=555&border_color=ffb6c1&icon_color=ff69b4"></br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show_icons=true&include_all_commits=true&bg_color=fff&title_color=ff69b4&text_color=555&border_color=ffb6c1&icon_color=ff69b4)](https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show_icons=true&include_all_commits=true&bg_color=fff&title_color=ff69b4&text_color=555&border_color=ffb6c1&icon_color=ff69b4)
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minta1234&layout=compact&langs_count=8&bg_color=fff&title_color=ff69b4&text_color=555&border_color=ffb6c1"></br>
 <img src="https://gh-heat.anishroy.com/api/Minta1234/svg?transparent=true&colors=fff3f5,f6b7c7,f4a7b9,e98aa2,c96a84&textColor=84777a&borderColor=f6b7c7&showMonthLabels=false&showDayLabels=false&showLegend=false&padding=5&cellSize=9&cellGap=2&radius=2" alt="peach mini heatmap" />
 <br><img src="https://ghstats.dev/api/mini?username=Minta1234&metric=commits&label=Commits&color=f6a0c4" alt="commits" /></br>
 <img src="https://img.shields.io/github/followers/Minta1234?style=flat&label=FOLLOWERS&color=a7d8ff&labelColor=f5f1ff" alt="GitHub followers" />
