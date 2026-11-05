@@ -7,7 +7,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,blender,js,html,css,cs,cloudflare,linux,supabase,lua)](https://skillicons.dev)
 
 ## 📈 GitHub 统计
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show_icons=true&include_all_commits=true&bg_color=fff&title_color=ff69b4&text_color=555&border_color=ffb6c1&icon_color=ff69b4)](https://github-stats-extended.vercel.app/api?username=Minta1234&rank_icon=percentile&show_icons=true&include_all_commits=true&bg_color=fff&title_color=ff69b4&text_color=555&border_color=ffb6c1&icon_color=ff69b4)
 <br>[![Top Languages](./profile/top-langs.svg)](https://github.com/Minta1234)</br>
 <img src="https://gh-heat.anishroy.com/api/Minta1234/svg?colors=ffe4e6,fecdd3,fb7185,e11d48,9f1239&showMonthLabels=false&showDayLabels=false&showLegend=true&radius=2" alt="peach heatmap" />
@@ -16,7 +15,6 @@
 
 ## Online Presence
 **[Kawinphop Kodsombat](https://gravatar.com/secretlyfancyea96662e50)**
-
 [Gravatar](https://gravatar.com/secretlyfancyea96662e50) · [X](https://x.com/Endmin_Endfield) · [LinkedIn](https://www.linkedin.com/in/minta-kodsomabat-b4a481444) · [TikTok](https://tiktok.com/@axphia)
 ## 环境
 - **操作系统:** Windows 11 与 Linux (Zorin OS)

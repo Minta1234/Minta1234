@@ -14,10 +14,7 @@
 <img src="https://img.shields.io/github/followers/Minta1234?style=flat&label=FOLLOWERS&color=a7d8ff&labelColor=f5f1ff" alt="GitHub followers" />
 
 ## Online Presence
-[![Kawinphop Kodsombat](https://0.gravatar.com/avatar/a37aaa3262611470fd2b76c224ce30897a4425ed4ef9bab0eb5536838ebc9c3b?s=256)](https://gravatar.com/secretlyfancyea96662e50)
-
 **[Kawinphop Kodsombat](https://gravatar.com/secretlyfancyea96662e50)**
-
 [Gravatar](https://gravatar.com/secretlyfancyea96662e50) · [X](https://x.com/Endmin_Endfield) · [LinkedIn](https://www.linkedin.com/in/minta-kodsomabat-b4a481444) · [TikTok](https://tiktok.com/@axphia)
 
 ## Environment
